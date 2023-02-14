@@ -44,7 +44,7 @@ See <a href="https://github.com/s-rah/onionscan/wiki">the wiki</a> for guidance.
 
 ### Grab with go get
 
-`go get github.com/s-rah/onionscan`
+`go get github.com/dominikdev-m/onionscan-v3`
 
 ### Compile/Run from git cloned source
 
